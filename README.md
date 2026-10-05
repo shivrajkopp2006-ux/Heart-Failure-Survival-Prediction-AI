@@ -1,2 +1,5 @@
-# Heart-Failure-Survival-Prediction-AI
-Predicting heart failure patient survival using Python, Seaborn, and Random Forest classification.
+# Firebase Studio
+
+This is a NextJS starter in Firebase Studio.
+
+To get started, take a look at src/app/page.tsx.
